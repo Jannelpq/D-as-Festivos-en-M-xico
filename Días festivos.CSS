@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 1%;
+    background-image: url(./Imágenes/Fondobandera2.png);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+h1 {
+    color: #D82638;
+    font-size: 250%;
+    text-align: center;
+}
+
+h2 {
+    font-size: 150%;
+}
+
+h3 {
+    color: #462626;
+    font-size: 180%;
+    text-align: left;
+}
+.centro{
+    text-align: center;
+}
+h6 {
+    color: black;
+    font-size: 100%;
+    text-align: right;
+}
+video{
+    display: block;
+    margin: auto;
+    width: 70%;
+    height: auto;
+}
+ul{
+    font-family: book antiqua;
+    font-size: 115%;
+    text-align: left;
+}
+.blanco{
+    color: white;
+    display: inline-block;
+}
+.rojo{
+    color: red;
+    font-weight: bold;
+}
+a{
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    font-size: 150%;
+}
+table {
+    background-color: #94F0FF;
+    border-color: #40282A;
+    border-spacing: 0;
+    text-align: center;
+}
+td {
+    width: 35%;
+}
+img{    
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+.imgddmyddr{
+    float: right;
+}
